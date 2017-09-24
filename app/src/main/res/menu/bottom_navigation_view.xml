@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+  <item
+      android:id="@+id/action_email"
+      android:icon="@drawable/ic_email_white_24dp"
+      android:title="@string/text_email"
+      app:showAsAction="ifRoom"/>
+
+  <item
+      android:id="@+id/action_phone"
+      android:icon="@drawable/ic_phone_white_24dp"
+      android:title="@string/text_phone"
+      app:showAsAction="ifRoom"/>
+
+  <item
+      android:id="@+id/action_github"
+      android:icon="@drawable/github_mark_light"
+      android:title="@string/text_github"
+      app:showAsAction="ifRoom"/>
+
+</menu>

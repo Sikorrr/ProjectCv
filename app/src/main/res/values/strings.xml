@@ -1,0 +1,27 @@
+<resources>
+  <string name="app_name">Cv</string>
+  <string name="text_email">E-mail</string>
+  <string name="text_phone">Phone</string>
+  <string name="text_github">GitHub</string>
+  <string name="transition_string">transition</string>
+  <string name="email_intent">No e-mail client found.</string>
+  <string name="curriculum_vitae">Curriculum Vitae</string>
+  <string name="transition">transition</string>
+  <string name="sylwia_sikora">Sylwia Sikora</string>
+  <string name="fragment_detail">fragment_detail</string>
+  <string name="no_intent">No Intent available to handle action.</string>
+  <string name="status_bar_height">status_bar_height</string>
+  <string name="dimen">dimen</string>
+  <string name="android">android</string>
+  <string name="input_info">Fill in both fields</string>
+  <string name="input_info2">Enter the e-mail</string>
+  <string name="invalid_user">Invalid user</string>
+  <string name="password_hint">password</string>
+  <string name="no_logging">Continue as anonymous</string>
+  <string name="Log_in">Log in</string>
+  <string name="progress_dialog">Loading…</string>
+  <string name="e_mail">e-mail</string>
+  <string name="log_out">Log out</string>
+  <string name="authentication_failed">Authentication failed</string>
+</resources>
+

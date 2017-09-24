@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="input_info">Uzupełnij obydwa pola</string>
+  <string name="input_info2">Podaj e-mail</string>
+  <string name="invalid_user">Nieprawidłowa nazwa użytkownika</string>
+  <string name="no_logging">Kontynuuj bez logowania</string>
+  <string name="Log_in">Zaloguj</string>
+  <string name="text_phone">Telefon</string>
+  <string name="log_out">Wyloguj</string>
+  <string name="authentication_failed">Autoryzacja nie powiodła się</string>
+
+
+</resources>

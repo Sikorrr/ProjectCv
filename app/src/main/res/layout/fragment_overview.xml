@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/coordinator_overview"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+  <android.support.v7.widget.RecyclerView
+      android:id="@+id/recyclerview_overview"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      app:layout_behavior="@string/appbar_scrolling_view_behavior"
+      />
+
+
+  <android.support.design.widget.AppBarLayout
+      android:id="@+id/appbar_overview"
+      android:layout_width="match_parent"
+      android:layout_height="@dimen/appbar_height"
+      android:background="@color/colorPrimaryDark"
+      android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
+      >
+
+    <android.support.design.widget.CollapsingToolbarLayout
+        android:id="@+id/collapsing_toolbar_overview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:collapsedTitleTextAppearance="@style/ExpandedAppBar"
+        app:contentScrim="@color/colorPrimaryDark"
+        app:expandedTitleTextAppearance="@style/ExpandedAppBar"
+        app:layout_scrollFlags="scroll|exitUntilCollapsed"
+        >
+
+      <include layout="@layout/header_layout"
+          />
+
+      <android.support.v7.widget.Toolbar
+          android:id="@+id/toolbar_overview"
+          android:layout_width="match_parent"
+          android:layout_height="@dimen/toolbar_height"
+          app:layout_collapseMode="pin"
+          app:layout_scrollFlags="snap|scroll|exitUntilCollapsed"
+          app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+          />
+
+    </android.support.design.widget.CollapsingToolbarLayout>
+
+  </android.support.design.widget.AppBarLayout>
+
+</android.support.design.widget.CoordinatorLayout>
