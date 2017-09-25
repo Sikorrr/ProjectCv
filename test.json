@@ -1,0 +1,172 @@
+{
+  "users" : {
+    "anonymous" : {
+      "details" : [ {
+        "confetti" : false,
+        "itemId" : 0,
+        "items" : [ {
+          "header" : "Dane personalne",
+          "subitems" : [ {
+            "left" : "Data urodzenia",
+            "right" : "10 Stycznia 1989"
+          }, {
+            "left" : "Adres zamieszkania",
+            "right" : "Przykładowa 5/10 01-234 Warszawa"
+          }, {
+            "left" : "Telefon",
+            "right" : "800800800"
+          }, {
+            "left" : "e-mail",
+            "right" : "jan.kowalski@gmail.com"
+          } ]
+        } ]
+      }, {
+        "confetti" : false,
+        "itemId" : 1,
+        "items" : [ {
+          "header" : "null",
+          "subitems" : [ {
+            "left" : "2012 - 2014",
+            "right" : "Wyższa Szkoła Przykładowa w Warszawie, kierunek Informatyka, studia magisterskie"
+          } ]
+        }, {
+          "header" : "null",
+          "subitems" : [ {
+            "left" : "2009 - 2012",
+            "right" : "Wyższa Szkoła Przykładowa w Warszawie, kierunek Informatyka, studia inżynierskie"
+          } ]
+        }, {
+          "header" : "null",
+          "subitems" : [ {
+            "left" : "2005 - 2009",
+            "right" : "Technikum Przykładowe w Warszawie, profil: technik informatyk"
+          } ]
+        } ]
+      }, {
+        "confetti" : false,
+        "itemId" : 2,
+        "items" : [ {
+          "header" : "null",
+          "subitems" : [ {
+            "left" : "Języki programowania",
+            "right" : "Whitespace, Ook!, Velato, COBOL  "
+          } ]
+        }, {
+          "header" : "null",
+          "subitems" : [ {
+            "left" : "Umiejętności IT",
+            "right" : "System SVN/Jira, metodyka SCRUM, wzorce projektowe, testy jednostkowe"
+          } ]
+        }, {
+          "header" : "null",
+          "subitems" : [ {
+            "left" : "Bazy danych",
+            "right" : "SQL, MySQL"
+          } ]
+        }, {
+          "header" : "null",
+          "subitems" : [ {
+            "left" : "Języki obce",
+            "right" : "język angielski (biegły)"
+          } ]
+        } ]
+      }, {
+        "confetti" : false,
+        "itemId" : 3,
+        "items" : [ {
+          "header" : "Java",
+          "subitems" : [ {
+            "left" : "Object Oriented Programming in Java",
+            "right" : "6-tygodniowy kurs dla średniozaawansowanych z wykorzystaniem wizualizacji danych"
+          }, {
+            "left" : "Multithreading and Parallel Computing in Java",
+            "right" : "Kurs dotyczący podstaw tworzenia wielowątkowości i współbieżnego programowania z pewnymi równoległymi koncepcjami"
+          } ]
+        }, {
+          "header" : "SCRUM",
+          "subitems" : [ {
+            "left" : "Professional Scrum Master",
+            "right" : "www.scrum.org"
+          } ]
+        } ]
+      }, {
+        "confetti" : true,
+        "itemId" : 4,
+        "items" : [ {
+          "header" : "ABC Solutions",
+          "subitems" : [ {
+            "left" : "2014 - 2015\nMłodszy programista",
+            "right" : "Programowanie aplikacji internetowych dla klientów korporacyjnych"
+          } ]
+        }, {
+          "header" : "IT Expert",
+          "subitems" : [ {
+            "left" : "2015 - 2016\nProgramista\n.NET",
+            "right" : "Projekty programistyczne w aplikacji desktoppowej, rozbudowa plikacji, programowanie nowych modułów i funkcjonalności"
+          } ]
+        } ]
+      }, {
+        "confetti" : false,
+        "itemId" : 5,
+        "items" : [ {
+          "header" : "Pierwsze przykładowe hobby",
+          "subitems" : [ {
+            "left" : "",
+            "right" : ""
+          } ]
+        }, {
+          "header" : "Drugie przykładowe hobby",
+          "subitems" : [ {
+            "left" : "",
+            "right" : ""
+          } ]
+        }, {
+          "header" : "Trzecie przykładowe hobby",
+          "subitems" : [ {
+            "left" : "",
+            "right" : ""
+          } ]
+        }, {
+          "header" : "Czwarte przykładowe hobby",
+          "subitems" : [ {
+            "left" : "",
+            "right" : ""
+          } ]
+        } ]
+      } ],
+      "personalInfo" : {
+        "circularImageUrl" : "https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/anonymous_user.png?alt=media&token=e074affa-3727-4bc5-b3a0-a19c2143744f",
+        "email" : "jan.kowalski@przyklad.com",
+        "headerBackgroundImage" : "https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/background.png?alt=media&token=fa5a8915-a393-4416-85ba-059be5482bdb",
+        "name" : "Jan Kowalski",
+        "phoneNumber" : "111222333",
+        "webPage" : "https://github.com/"
+      },
+      "sections" : [ {
+        "itemId" : 0,
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/aboutme_color.png?alt=media&token=ce9320b4-a59e-4ce3-8a1e-2b9895e9ec17",
+        "title" : "O mnie"
+      }, {
+        "itemId" : 1,
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/education_color.png?alt=media&token=53edbf4c-7042-416d-a876-fc59fe2d0019",
+        "title" : "Moja edukacja"
+      }, {
+        "itemId" : 2,
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/skills_color.png?alt=media&token=3b610731-90e8-44e1-b75f-c1c8d421b686",
+        "title" : "Umiejętności"
+      }, {
+        "itemId" : 3,
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/courses_color.png?alt=media&token=0c239b0f-0196-430a-a354-5897885a2930",
+        "title" : "Zrealizowane kursy"
+      }, {
+        "itemId" : 4,
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/work_color.png?alt=media&token=e92d9fc8-7c1b-4a44-b219-59a0c6ca09fb",
+        "title" : "Doświadczenie"
+      }, {
+        "itemId" : 5,
+        "photoUrl" : "https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/hobby_color.png?alt=media&token=64ce216d-1359-4ad4-914a-d208dad5d9d1",
+        "title" : "Zainteresowania"
+      } ]
+    }
+  }
+}
