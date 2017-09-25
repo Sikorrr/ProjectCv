@@ -4,12 +4,16 @@
 ![Alt Text](https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/overview_small.gif?alt=media&token=460ab5d7-a436-4bca-ad3d-9ba651070823) 
 ![Alt Text](https://firebasestorage.googleapis.com/v0/b/sylwia-cv.appspot.com/o/small_shared_element.gif?alt=media&token=c233ec94-4685-4d6b-8e3c-23992dea0276) 
 
+### [Pobierz aplikację](https://drive.google.com/open?id=0B0Kj2C1ceopyYTl4ZUI3ZXVnRFU)
+
 
 ### Spis treści 
 ---
 1. [Wstęp](#wstep) 
 2. [Opis](#opis) 
 3. [Budowanie aplikacji](#budowanie-aplikacji)
+
+
 
 ### Wstęp
 ---
@@ -18,6 +22,7 @@ Jest to mój pierwszy samodzielny projekt, którego celem było poszerzenie wied
 * [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851)
 * [Intro to Java Programming](https://www.udacity.com/course/java-programming-basics--ud282)
 
+##### Merge requesty mile widziane! 
 
 ### Opis
 ---
